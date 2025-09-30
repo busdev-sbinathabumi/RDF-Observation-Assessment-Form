@@ -1,6 +1,7 @@
+
 {
-  "name": "Copy of RDF Plant Risk Assessment Form",
-  "description": "A digital inspection form for area owners to assess housekeeping, safety, material management, and equipment conditions. Includes photo upload capabilities for non-compliant items.",
+  "name": "RDF Plant Observation Form",
+  "description": "A dynamic, multi-section form for conducting observations at an RDF (Refuse-Derived Fuel) plant, with features for repeatable items, photo uploads, validation, and PDF/email exporting.",
   "requestFramePermissions": [
     "camera"
   ]
